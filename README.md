@@ -1,4 +1,4 @@
-# Project 2 of Team Treehouse Tech Degree.
+# Project 2 of Team Treehouse Full Stack JavaScript Tech Degree.
 
 Given a static list of students, tasked with adding pagination links and search bar to make navigating list more streamlined.
 
